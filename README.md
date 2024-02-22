@@ -1,4 +1,4 @@
-#Snake Game using Turtle Library
+# Snake Game using Turtle Library
 
 This is a classic Snake Game implemented in Python using the Turtle library. The game provides a simple and enjoyable experience where the player controls a snake to eat food, grow longer, and avoid colliding with the walls or itself.
 
